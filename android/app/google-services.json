@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530546600493",
+    "firebase_url": "https://projet-aald.firebaseio.com",
+    "project_id": "projet-aald",
+    "storage_bucket": "projet-aald.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530546600493:android:216eb18a1a7575a7f2a6a4",
+        "android_client_info": {
+          "package_name": "com.example.projet_aald"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530546600493-06leiajtq5a1go0rcou2r0i1d8hm48d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-KkDjEFfkvjJZgfUHZEYsG-UiMkxhtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530546600493-06leiajtq5a1go0rcou2r0i1d8hm48d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
